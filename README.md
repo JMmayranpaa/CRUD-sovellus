@@ -3,3 +3,5 @@ GRUD-sovellus PHP:llä ja SQL. Tyyliasu Bootstrap. Login/rekisteröinti CSS3
 
 Tehty osana XAMK:n PHP kurssia. Lähdeviitteet jokaisen .php tiedoston lopussa. Osa julkisia lähteitä linkin takana, ja osa lehtorin oppeja. 
 
+Jotta saat sovelluksen toimimaan tarvitset XAMPP-Ohjelman, jossa laitat MySQL-databasen ja Apache Web Serverin päälle. Siirrä kansio GRUD-sovellus htdocs kansioon. Seilamessa pääset ohjelmaan käsiksi localhost/kansion_nimi/GRUD-sovellus.
+
